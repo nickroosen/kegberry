@@ -1,4 +1,4 @@
-# Copyright (C) 2014 Bevbot LLC
+u# Copyright (C) 2014 Bevbot LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -99,7 +99,6 @@ REQUIRED_PACKAGES = (
     'supervisor',
     'python-setuptools',
     'python-dev',
-    'libmysqlclient-dev',
     'mysql-server',
     'redis-server',
 )
